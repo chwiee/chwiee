@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Wallace Bruno (nick Chwiee) from Brazil <br><br>- 🔭 I’m working with Platform Enginnering on BTG Pactual<br>- 📚 I'm currently learning GoLang, K8S operators, full monitoring with LGTM and this year my goals is Kubeastronaut<br>- ⚡ In my free time I play MTG, play MMORPG, make a rubrik cube, watch movie and series :) </p>
 
 ###
 
