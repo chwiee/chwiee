@@ -8,13 +8,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
 
-<h1 align="left">👩‍💻  About Me</h1>
+<h1 align="left">👩‍💻  Daaaaaaaaaale!</h1>
 
 ###
 
@@ -24,8 +22,28 @@
 
 ###
 
-<p align="left">I'm Wallace Bruno (nick Chwiee) from Brazil <br><br>- 🔭 I’m working with Platform Enginnering on BTG Pactual<br>- 📚 I'm currently learning GoLang, K8S operators, full monitoring with LGTM and this year my goals is Kubeastronaut<br>- ⚡ In my free time I play MTG, play MMORPG, make a rubrik cube, watch movie and series :) </p>
+<p align="left">Me chamo Wallace — mas a maioria me conhece como Bruno (ou chwiee, uma homenagem ao melhor personagem de todos os tempos: Chewbacca 😄).<br>
 
+Atualmente atuo como Engenheiro de Cloud e Plataformas no BTG Pactual, um dos maiores bancos da América Latina e referência global em investimentos.<br><br>
+
+Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados. Tenho estudado bastante Go, Python, Kubernetes, e toda a stack de observabilidade e confiabilidade da Grafana (Loki, Tempo, Mimir e claro, o próprio Grafana).
+Minha meta para 2025 (ou no mais tardar 2026) é me tornar um Kubeastronaut — e por que não, um dia, um Golden Astronaut 🚀<br><br>
+
+Fora do mundo tech, sou movido por música (de todos os estilos — acredito que é o momento que define a playlist), fã de animes, séries e filmes, e gosto de me desafiar resolvendo cubos mágicos, sempre buscando novos algoritmos e reduzindo o tempo de resolução. Também sou entusiasta de MTG (Magic: The Gathering), uma das minhas grandes paixões.<br><br>
+
+Por aqui, você vai encontrar de tudo um pouco:<br>
+📁 Scripts em Bash, Python e Go<br>
+⚙️ Pipelines com GitHub Actions e Azure DevOps<br>
+🤖 Automações com Ansible + Semaphore<br>
+🧠 Padrões, boas práticas e aprendizados de infraestrutura como código<br>
+…e claro, algumas pitadas de criatividade fora da caixa.<br>
+
+Ah! E quase ia esquecendo: sou também Home Bartender certificado 🍸<br>
+Alguns dos meus drinks já foram até publicados por aí!<br><br>
+
+Se curte tech, automações, boas conversas e um drink de vez em quando, sinta-se em casa!
+ </p>
+ 
 ###
 
 <h2 align="left">🛠 Language and tools</h2>
